@@ -1,4 +1,4 @@
-# Countries Detial Developed in ReactNative 
+# Countries Detail Developed in ReactNative 
 
 First add below mentioned Modules.
 
